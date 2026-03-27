@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-03-27T13:10:55.823243035Z"
+    description: A Helm chart for myapp (nginx + flask + redis + mysql)
+    digest: b2bad9b58aa5215b1e83a9c786f54c36323aeb0f29c2d99caa55e463e0f6304f
+    name: myapp
+    type: application
+    urls:
+    - https://ekchoi391204.github.io/app-helm/myapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-03-27T13:10:55.822203044Z"
