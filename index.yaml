@@ -3,12 +3,12 @@ entries:
   myapp:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-03-28T11:09:33.361998771Z"
+    created: "2026-03-28T11:16:51.501693573Z"
     description: A Helm chart for myapp (nginx + flask + redis + mysql)
-    digest: fbaabc5ec1a7bc1a58d37d28a2965a2e2dfb83e904caae7ed89eb9e1790e9c5f
+    digest: 6ccc97b2a4df0dd02b502f2007dd1866eae07c81f2d0a9f6c3b0ed7ca3574ace
     name: myapp
     type: application
     urls:
     - https://ekchoi391204.github.io/app-helm/myapp-0.1.0.tgz
     version: 0.1.0
-generated: "2026-03-28T11:09:33.360743989Z"
+generated: "2026-03-28T11:16:51.501260768Z"
